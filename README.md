@@ -1,1 +1,1 @@
-# GPUMAX-GPU图形处理强制解决方案
+# GPUMAX-GPU对图形处理的强制解决方案
